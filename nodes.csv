@@ -4,4 +4,4 @@ Id,Name,Category,Region,proj_role,Lat,Lon
 198,LA,Priv,West,1,34.052235,-118.243683
 165,KC,Loc,Midwest,2,39.0997222,-94.5783333
 173,MT,Priv,West,2,45.6835,-111.0505
-182,Cape Town,Gov,South,1,33.9249,18.4241
+182,Cape Town,Gov,South,1,-33.9249,18.4241
